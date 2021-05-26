@@ -38,6 +38,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/ingridfuentes/pen/abJwLmO?editors=1111" target="_blank" rel="noopener noreferrer"> Link</a> </td>
        
       </tr>
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 2.1</td>
+          <td>Local Storage and Session storage- Here is my codepen link with solutions</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/XWMadvX?editors=0001" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
