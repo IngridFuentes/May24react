@@ -45,6 +45,22 @@ function Homeworks() {
           <td><a href="https://codepen.io/ingridfuentes/pen/XWMadvX?editors=0001" target="_blank" rel="noopener noreferrer"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 3.1</td>
+          <td>CSS Selectors exercise</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/LYWjwNJ" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework Quiz</td>
+          <td>HW Quiz CSS</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/jOBLgOq" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
