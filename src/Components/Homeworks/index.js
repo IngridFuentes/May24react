@@ -61,6 +61,28 @@ function Homeworks() {
           <td><a href="https://codepen.io/ingridfuentes/pen/jOBLgOq" target="_blank" rel="noopener noreferrer"> Link</a> </td>
        
       </tr>
+      <tr>
+          <th scope="row">3</th>
+          <td>Homework 3.2</td>
+          <td>Navigation bar</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/jOBLgOq" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
+      <tr>
+          <th scope="row">4</th>
+          <td>Homework 3.3</td>
+          <td>JS count words</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/bGqLzmp?editors=1111" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">5</th>
+          <td>Homework 5.1</td>
+          <td>Change theme homework</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/ZEevLEm?editors=1111" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
