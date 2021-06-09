@@ -21,6 +21,7 @@ function Homeworks() {
           <th>Type</th>
           <th>Description</th>
           <th>Link</th>
+          <th>Github</th>
         </tr>
       </thead>
       <tbody>
@@ -81,6 +82,21 @@ function Homeworks() {
           <td>Homework 5.1</td>
           <td>Change theme homework</td>
           <td><a href="https://codepen.io/ingridfuentes/pen/ZEevLEm?editors=1111" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
+      <tr>
+          <th scope="row">6</th>
+          <td>Homework 10.2</td>
+          <td>Lottery homework</td>
+          <td><a href="https://codepen.io/ingridfuentes/pen/poeKxvY?editors=1111" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+       
+      </tr>
+      <tr>
+          <th scope="row">7</th>
+          <td>Homework 12.1</td>
+          <td>Carousel React</td>
+          <td><a href="https://xenodochial-easley-0d43d5.netlify.app/" target="_blank" rel="noopener noreferrer"> Link</a> </td>
+          <td><a href="https://github.com/IngridFuentes/carousel-react" target="_blank" rel="noopener noreferrer"> Link</a> </td>
        
       </tr>
         
